@@ -83,7 +83,7 @@ jobs:
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - name: 🔧 Setup SAM CLI
         uses: aws-actions/setup-sam@v2
@@ -142,7 +142,7 @@ jobs:
       - name: 🐍 Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - name: 🔧 Setup SAM CLI
         uses: aws-actions/setup-sam@v2

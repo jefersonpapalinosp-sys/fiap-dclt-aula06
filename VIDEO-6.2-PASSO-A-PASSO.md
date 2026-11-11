@@ -107,7 +107,7 @@ jobs:
       
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - uses: aws-actions/setup-sam@v2
       
@@ -147,7 +147,7 @@ jobs:
       
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - uses: aws-actions/setup-sam@v2
       
@@ -202,7 +202,7 @@ jobs:
       
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - uses: aws-actions/setup-sam@v2
       
@@ -236,7 +236,7 @@ jobs:
       
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.12'
       
       - uses: aws-actions/setup-sam@v2
       
